@@ -1,0 +1,32 @@
+# Config Options
+teleporting-time: 3 # In seconds
+
+# MobGriefing
+mobgrief:
+  creeper: false
+  zombie: false
+  enderman: false
+  ghast: false
+  wither: false
+  enderdragon: false
+  rabbit: false
+  sheep: false
+  villager: false
+  snowman: false
+  silverfish: false
+  ravager: false
+  turtle_egg: false
+
+
+# Permissions
+mobgrief-cmd: "mic.mobgrief"
+
+
+# Messages
+# color codes work, also hex color like &#000000 (black) works too
+messages:
+  no-perm: "&cYou do not have permission for this!"
+
+
+
+
